@@ -4,4 +4,3 @@ numpy
 scikit-learn
 flask
 openai
-// .venv\Scripts\activate  -  To activate the virtual environment on Windows
