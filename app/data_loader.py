@@ -13,5 +13,4 @@ def load_data():
     accidents = pd.read_csv(data_dir / 'accidents.csv', sep=';')
     readings = pd.read_csv(data_dir / 'readings.csv', sep=';')
 
-    print("Data loaded successfully.")
     return sensors, sensor_types, accidents, readings
